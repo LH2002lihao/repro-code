@@ -2,16 +2,12 @@
 
 # Cognitive Prior-Guided Evidence Decoupling for Remote Sensing Image Change Captioning
 
-**Anonymous repository for double-blind review**
-
 </div>
 
 ## Welcome
 This repository contains the PyTorch implementation of our RSICC method for the paper:
 
 **Cognitive Prior-Guided Evidence Decoupling for Remote Sensing Image Change Captioning**.
-
-All author-identifying information has been removed for double-blind review.
 
 ---
 
