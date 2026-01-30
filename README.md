@@ -64,7 +64,6 @@ python eval12.py
 ```
 
 ## Citation
-For double-blind review, please cite as:
 ```bibtex
 @article{anonymous2026rsicc,
   title={Cognitive Prior-Guided Evidence Decoupling for Remote Sensing Image Change Captioning},
